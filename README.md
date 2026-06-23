@@ -72,9 +72,16 @@ I'm strengthening the connection between practical software engineering and AI-r
 
 ## GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=ALEXKk-ai&theme=discord_old_blurple&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=ALEXKk-ai&theme=discord_old_blurple&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ALEXKk-ai&theme=discord_old_blurple&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<p align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=ALEXKk-ai&show_icons=true&include_all_commits=true&rank_icon=github&theme=discord_old_blurple&hide_border=true&custom_title=Alex%27s%20GitHub%20Stats" alt="Alex's GitHub statistics" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ALEXKk-ai&layout=compact&langs_count=8&theme=discord_old_blurple&hide_border=true" alt="Alex's most used languages" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=ALEXKk-ai&theme=discord_old_blurple&hide_border=true" alt="Alex's GitHub contribution streak" />
+</p>
+
+> The public statistics cards mainly use activity from public repositories. Private contribution totals depend on GitHub visibility settings and the statistics provider.
 
 ---
 
