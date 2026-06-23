@@ -1,29 +1,53 @@
 # Hi, I'm Alex Kanja
 
-Computer Science graduate focused on **AI evaluation**, **data annotation**, **Python automation**, and practical **full-stack/mobile development**.
+Computer Science graduate building **full-stack**, **mobile**, and **AI-assisted software products**.
 
-I build projects that turn learning into working software: front-end interfaces, automation scripts, backend APIs, mobile apps, database-backed systems, and tools that support AI/data workflows. My current direction is remote technical work in AI training, data quality, research support, and junior software development.
+My projects include React Native and Expo applications, Node.js/Express/PostgreSQL backends, native Android development with Kotlin and Jetpack Compose, Python automation pipelines, and on-device machine-learning tools.
 
-## What I Focus On
+I'm particularly interested in **AI safety**, **AI evaluation**, **data quality**, **backend development**, and **mobile software engineering**.
 
-- AI response evaluation, prompt review, and data annotation workflows
-- Python scripting, automation, and data-related tasks
-- Front-end development with HTML, CSS, JavaScript, and responsive UI patterns
-- Full-stack development with Node.js, Express, REST APIs, PostgreSQL, and authentication
-- Mobile app development with React Native and Expo
-- Git/GitHub project documentation, version control, and clean repository hygiene
-- Continuous growth in software engineering and machine learning foundations
+## What I Work With
+
+- Full-stack application development with Node.js, Express, REST APIs, PostgreSQL, JWT authentication, and WebSockets
+- Cross-platform mobile development using React Native and Expo
+- Native Android development using Kotlin, Jetpack Compose, Room, Hilt, and WorkManager
+- On-device machine learning with TensorFlow Lite and ML Kit
+- Python scripting, automation, data validation, and GitHub Actions workflows
+- Responsive front-end development with HTML, CSS, and JavaScript
+- Secure configuration, documentation, version control, and practical software architecture
 
 ## Featured Projects
 
-### SwiftDeliver
-A full-stack delivery management platform with a React Native/Expo mobile app, Express backend, PostgreSQL database, JWT authentication, WebSocket updates, admin dashboard, maps support, and payment-integration groundwork. This project shows my growth from static web pages into real application architecture, backend workflows, security hygiene, and mobile-first product thinking.
+### [SwiftDeliver](https://github.com/ALEXKk-ai/swiftdeliver)
+
+A full-stack delivery management platform built with an Expo/React Native mobile application, Express backend, PostgreSQL database, JWT authentication, WebSocket updates, maps and location support, an admin dashboard, and payment-integration groundwork.
+
+**Highlights:** mobile-first product design, backend API development, real-time communication, authentication, database design, security middleware, and environment-based configuration.
+
+### [Guardly](https://github.com/ALEXKk-ai/guardly-app-private)
+
+A native Android content-protection application combining local DNS filtering, Accessibility-based screen analysis, selective on-device image classification, managed profiles, accountability features, and optional Supabase-backed family capabilities.
+
+**Highlights:** Kotlin, Jetpack Compose, TensorFlow Lite, ML Kit, Room, Hilt, WorkManager, Android security components, and privacy-focused on-device processing.
 
 ### [nsfw-shield](https://github.com/ALEXKk-ai/nsfw-shield)
-A Python project aligned with AI safety and content-quality workflows. It supports my interest in AI evaluation, data review, and practical tooling around safer digital systems.
 
-### Web Projects
-A collection of HTML/CSS/JavaScript projects such as blogs, UI experiments, and small browser-based apps. These show my foundation in front-end structure, styling, and interactive web development.
+A Python automation project for content safety, domain intelligence, data validation, and secure blocklist distribution. It aggregates domains from public sources, validates update safety, signs generated data for integrity verification, and publishes versioned blocklists through GitHub Actions.
+
+**Highlights:** Python automation, scheduled workflows, external data processing, defensive validation, HMAC signing, version tracking, and CI/CD.
+
+### [My Sudoku Game](https://github.com/ALEXKk-ai/mysudokugame)
+
+An interactive browser-based Sudoku game with multiple difficulty levels, timed challenges, undo and solve controls, appearance settings, gameplay options, sound controls, and statistics features.
+
+**Highlights:** JavaScript application logic, responsive interface design, state management, user settings, and interactive gameplay.
+
+## Other Projects
+
+- [DemaFoods](https://github.com/ALEXKk-ai/dema) — responsive food-delivery website prototype built with HTML and CSS
+- [Alexkk Blog](https://github.com/ALEXKk-ai/alexkk-blog) — Jekyll-based content website using Ruby, Markdown, Liquid templates, and GitHub Pages
+- [Blog UI](https://github.com/ALEXKk-ai/blog) — responsive front-end blog interface built with HTML, CSS, and JavaScript
+- [Liz Unique Designs](https://github.com/ALEXKk-ai/mine) — static responsive e-commerce interface concept
 
 ## Tech Stack
 
@@ -36,11 +60,15 @@ A collection of HTML/CSS/JavaScript projects such as blogs, UI experiments, and 
 ![PostgreSQL](https://img.shields.io/badge/postgresql-%23336791.svg?style=plastic&logo=postgresql&logoColor=white)
 ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB)
 ![Expo](https://img.shields.io/badge/expo-%23000020.svg?style=plastic&logo=expo&logoColor=white)
+![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=plastic&logo=kotlin&logoColor=white)
+![Android](https://img.shields.io/badge/android-%233DDC84.svg?style=plastic&logo=android&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/tensorflow-%23FF6F00.svg?style=plastic&logo=tensorflow&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/github_actions-%232088FF.svg?style=plastic&logo=githubactions&logoColor=white)
 
 ## Current Direction
 
-I'm building a portfolio that connects AI/data work with practical software engineering. My goal is to show clear evidence of problem-solving, clean documentation, secure project setup, and consistent technical growth through real projects.
+I'm strengthening the connection between practical software engineering and AI-related work. My current focus is building reliable applications, improving my machine-learning foundations, and developing stronger evidence of AI evaluation, data-quality, and automation skills through real projects.
 
 ## GitHub Stats
 
